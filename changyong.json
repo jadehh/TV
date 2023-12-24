@@ -33,16 +33,11 @@
       ]
     },
     {
-      "key": "csp_WoGG",
-      "name": "💂‍┃阿里玩偶┃💂",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "6eac908ce9f64c5989cd6ba869653aee"
-      },
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"
+                "key": "wogg",
+                "name": "💂‍┃阿里玩偶┃💂",
+                "type": 3,
+                "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/wogg.js",
+                "ext": "{\"token\": \"86c442348ffa42e882506502c557cd34\", \"box\": \"CatOpen\"}"
     },
     {
       "key": "csp_阿里七夜",
