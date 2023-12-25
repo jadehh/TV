@@ -15,10 +15,10 @@ https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/CILI.jso
 ```bash
 https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/18.json
 ```
-（4）常用
+（4）家里常用
 ```bash
 https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/changyong.json
-https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/config.json
+
 ```
 
 （5）测试接口
