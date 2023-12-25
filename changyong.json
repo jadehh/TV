@@ -11,15 +11,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/douban.js"
     },
     {
-      "key": "js豆瓣备用",
-      "name": "🍥┃豆瓣备用┃🍥",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/doubanbf.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "新片热播",
       "name": "🔷┃新片┃热播",
       "type": 1,
