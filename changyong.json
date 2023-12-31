@@ -1,15 +1,34 @@
 {
   "sites": [
     {
-      "key": "js豆瓣",
+      "key": "douban",
       "name": "🍥┃豆瓣┃🍥",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/douban.js"
-    },
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/douban.js",
+      "ext": "{\"box\": \"TVBox\"}"
+  },
+  {
+    "key": "pan_search",
+    "name": "🗂️┃阿里盘搜┃🗂️",
+    "type": 3,
+    "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/pan_search.js",
+    "ext": "{\"box\": \"TVBox\", \"token\": \"a5bf471ef70d4069b55758839d8ef4d1\"}"
+},
+{
+    "key": "wogg",
+    "name": "💂‍┃阿里玩偶┃💂",
+    "type": 3,
+    "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/wogg.js",
+    "ext": "{\"box\": \"TVBox\", \"token\": \"a5bf471ef70d4069b55758839d8ef4d1\"}"
+},
+{
+    "key": "xb6v",
+    "name": "🧲|磁力新6V|🧲",
+    "type": 3,
+    "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/xb6v.js",
+    "ext": "{\"box\": \"TVBox\"}"
+},
+    
     {
       "key": "新片热播",
       "name": "🔷┃新片┃热播",
@@ -22,13 +41,6 @@
         "连续剧",
         "动漫"
       ]
-    },
-    {
-      "key": "wogg",
-      "name": "💂‍┃阿里玩偶┃💂",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/wogg.js",
-      "ext": "{\"token\": \"a5bf471ef70d4069b55758839d8ef4d1\", \"box\": \"TVBox\"}"
     },
     {
       "key": "csp_阿里七夜",
