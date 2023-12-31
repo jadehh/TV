@@ -3,25 +3,25 @@
 
 (1) 阿里
 ```bash
-https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/ali.json
+https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/main/ali.json
 ```
 
 (2) 磁力
 
 ```bash
-https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/CILI.json
+https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/main/CILI.json
 ```
 (3) 磁力
 ```bash
-https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/18.json
+https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/main/18.json
 ```
 （4）家里常用
 ```bash
-https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/changyong.json
+https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/main/changyong.json
 
 ```
 
 （5）测试接口
 ```bash
-https://gh-proxy.com/https://raw.githubusercontent.com/jadehh/TV/master/test.json
+https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/main/test.json
 ```
