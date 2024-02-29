@@ -9,10 +9,10 @@
       "ext": "{\"box\": \"TVBox\"}"
     },
     {
-      "key": "4kysxz",
-      "name": "🚄|4K高清网|🚄",
+      "key": "6080",
+      "name": "🐼|新视觉影院|🐼",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/4kysxz.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/6080.js",
       "timeout": 30,
       "ext": "{\"box\": \"TVBox\"}"
     },
@@ -30,7 +30,7 @@
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/alipansou.js",
       "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"token\": \"58950fc2475f49fc8788355c83594177\"}"
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
     },
     {
       "key": "aliyunpanshare",
@@ -38,13 +38,45 @@
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/aliyunpanshare.js",
       "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"token\": \"58950fc2475f49fc8788355c83594177\"}"
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
     },
     {
-      "key": "dytt",
-      "name": "👼|电影天堂|👼",
+      "key": "changzhang",
+      "name": "🏭️┃厂长直连┃🏭️",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/dytt.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/changzhang.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
+    },
+    {
+      "key": "douban",
+      "name": "🍥┃豆瓣┃🍥",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/douban.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
+    },
+    {
+      "key": "dygangs",
+      "name": "🏖️|电影港|🏖️",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/dygangs.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
+    },
+    {
+      "key": "dyttbt",
+      "name": "👼|电影天堂BT|👼",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/dyttbt.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
+    },
+    {
+      "key": "feifan",
+      "name": "🥗|非凡资源|🥗",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/feifan.js",
       "timeout": 30,
       "ext": "{\"box\": \"TVBox\"}"
     },
@@ -62,7 +94,15 @@
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/gitcafe.js",
       "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"token\": \"58950fc2475f49fc8788355c83594177\"}"
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
+    },
+    {
+      "key": "haoxi",
+      "name": "🌿|好戏追剧|🌿",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/haoxi.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
     },
     {
       "key": "ikanbot",
@@ -73,18 +113,18 @@
       "ext": "{\"box\": \"TVBox\"}"
     },
     {
-      "key": "jianpian",
-      "name": "🌼|荐片|🌼",
+      "key": "jiafeimao",
+      "name": "🐈|加菲猫|🐈",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/jianpian.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/jiafeimao.js",
       "timeout": 30,
       "ext": "{\"box\": \"TVBox\"}"
     },
     {
-      "key": "jiujiuliu",
-      "name": "🥃┃九九六影视┃🥃",
+      "key": "jianpian",
+      "name": "🌼|荐片|🌼",
       "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/jiujiuliu.js",
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/jianpian.js",
       "timeout": 30,
       "ext": "{\"box\": \"TVBox\"}"
     },
@@ -105,6 +145,14 @@
       "ext": "{\"box\": \"TVBox\", \"code\": 1}"
     },
     {
+      "key": "mp4movie",
+      "name": "🍚|Mp4电影|🍚",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/mp4movie.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
+    },
+    {
       "key": "nivod",
       "name": "👑‍┃泥视频┃👑",
       "type": 3,
@@ -118,7 +166,23 @@
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/pan_search.js",
       "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"token\": \"58950fc2475f49fc8788355c83594177\"}"
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
+    },
+    {
+      "key": "pipixia",
+      "name": "🦐┃皮皮虾影视┃🦐",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/pipixia.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
+    },
+    {
+      "key": "star",
+      "name": "☄️|星视界|☄️",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/star.js",
+      "timeout": 30,
+      "ext": "{\"box\": \"TVBox\"}"
     },
     {
       "key": "weixine",
@@ -126,7 +190,7 @@
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/weixine.js",
       "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"token\": \"58950fc2475f49fc8788355c83594177\"}"
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
     },
     {
       "key": "wogg",
@@ -134,7 +198,7 @@
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/wogg.js",
       "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"token\": \"58950fc2475f49fc8788355c83594177\"}"
+      "ext": "{\"box\": \"TVBox\", \"token\": \"302ef8e4b4d7430db6d82de284978359\"}"
     },
     {
       "key": "xb6v",
@@ -267,11 +331,11 @@
       "key": "js_ikanbot2",
       "name": "🤖┃爱看┃机器",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/drpy2.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/Thttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/ikanbot2.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/Thttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/js/ikanbot2.js"
     },
     {
       "key": "csp_XiaoZhiTiao",
@@ -288,11 +352,11 @@
       "key": "js_czsapp",
       "name": "🏭️┃厂长┃资源",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/drpy2.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/Thttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/czspp.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/maihttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/Thttps://gh.con.sh/https://raw.githubusercontent.com/jadehh/TV/js/js/js/czspp.js"
     },
     {
       "key": "量子资源",
